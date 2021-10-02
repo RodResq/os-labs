@@ -1,0 +1,5 @@
+ 2021-10-01 23:19:05,457 - DEBUG - Some debugging details.
+ 2021-10-01 23:19:05,457 - INFO - The logging modulo is working
+ 2021-10-01 23:19:05,457 - WARNING - An error message is baout to be logged.
+ 2021-10-01 23:19:05,457 - ERROR - An error has occurred
+ 2021-10-01 23:19:05,457 - CRITICAL - The program is unable to recover
